@@ -1,8 +1,8 @@
 {
   "articles": [
     {
-      "articleId": "1",
-      "mdPath": "md/1.md",
+      "articleId": "001",
+      "mdPath": "articles/001.md",
       "title": "S/4HANAとは何か？",
       "category": "s4hana",
       "tags": ["S/4HANA","ERP"],
@@ -10,8 +10,8 @@
       "createUser": "ERP部 髙橋唯人"
     },
     {
-      "articleId": "2",
-      "mdPath": "md/2.md",
+      "articleId": "002",
+      "mdPath": "articles/002.md",
       "title": "BTPとは何か？",
       "category": "btp",
       "tags": ["btp"],
@@ -19,8 +19,8 @@
       "createUser": "ERP部 髙橋唯人"
     },
     {
-      "articleId": "3",
-      "mdPath": "articles/001.md",
+      "articleId": "003",
+      "mdPath": "articles/003.md",
       "title": "Build Apps連携テスト記事",
       "category": "BTP",
       "tags": ["SAP", "BTP"],
