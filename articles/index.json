@@ -2,7 +2,7 @@
   "articles": [
     {
       "articleId": "001",
-      "mdPath": "articles/001.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/001.md",
       "title": "S/4HANAとは何か？",
       "category": "s4hana",
       "tags": ["S/4HANA"],
@@ -11,7 +11,7 @@
     },
     {
       "articleId": "002",
-      "mdPath": "articles/002.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/002.md",
       "title": "BTPとは何か？",
       "category": "btp",
       "tags": ["BTP"],
@@ -20,7 +20,7 @@
     },
     {
       "articleId": "003",
-      "mdPath": "articles/003.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/003.md",
       "title": "BASISとは何か？",
       "category": "basis",
       "tags": ["BASIS"],
@@ -29,7 +29,7 @@
     },
     {
       "articleId": "004",
-      "mdPath": "articles/004.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/004.md",
       "title": "購買管理とは何か？",
       "category": "business",
       "tags": ["業務プロセス", "販売", "購買"],
@@ -38,7 +38,7 @@
     },
     {
       "articleId": "005",
-      "mdPath": "articles/005.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/005.md",
       "title": "ERPとは何か？",
       "category": "other",
       "tags": ["ERP"],
@@ -47,7 +47,7 @@
     },
     {
       "articleId": "006",
-      "mdPath": "articles/006.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/006.md",
       "title": "◯◯◯◯について",
       "category": "business",
       "tags": ["会計"],
@@ -56,7 +56,7 @@
     },
     {
       "articleId": "007",
-      "mdPath": "articles/007.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/007.md",
       "title": "◯◯◯◯について",
       "category": "business",
       "tags": ["業務プロセス", "会計", "請求"],
@@ -65,7 +65,7 @@
     },
     {
       "articleId": "008",
-      "mdPath": "articles/008.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/008.md",
       "title": "◯◯◯◯について",
       "category": "business",
       "tags": ["ERP"],
@@ -74,7 +74,7 @@
     },
     {
       "articleId": "009",
-      "mdPath": "articles/009.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/009.md",
       "title": "AMOってなに？",
       "category": "amo",
       "tags": ["AMO"],
@@ -83,7 +83,7 @@
     },
     {
       "articleId": "010",
-      "mdPath": "articles/010.md",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/010.md",
       "title": "SAP Analytics Cloudについて",
       "category": "analytics",
       "tags": ["SAC", "データ分析"],
