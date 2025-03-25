@@ -1,0 +1,13 @@
+{
+  "articles": [
+    {
+      "id": "001",
+      "title": "Build Apps連携テスト記事",
+      "category": "BTP",
+      "tags": ["SAP", "BTP"],
+      "createUser": "高橋"
+      "postDate": "2025-03-25",
+      "markdownPath": "articles/001.md"
+    }
+  ]
+}
