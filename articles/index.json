@@ -5,7 +5,7 @@
       "mdPath": "articles/001.md",
       "title": "S/4HANAとは何か？",
       "category": "s4hana",
-      "tags": ["S/4HANA","ERP"],
+      "tags": ["S/4HANA"],
       "date": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     },
@@ -14,16 +14,79 @@
       "mdPath": "articles/002.md",
       "title": "BTPとは何か？",
       "category": "btp",
-      "tags": ["btp"],
+      "tags": ["BTP"],
       "date": "2025/03/02",
       "createUser": "ERP部 髙橋唯人"
     },
     {
-      "articleId": "999",
+      "articleId": "003",
       "mdPath": "articles/003.md",
-      "title": "Build Apps連携テスト記事",
-      "category": "BTP",
-      "tags": ["SAP", "BTP"],
+      "title": "BASISとは何か？",
+      "category": "basis",
+      "tags": ["BASIS"],
+      "postDate": "2025-03-25",
+      "createUser": "ERP部 髙橋唯人"
+    },
+    {
+      "articleId": "004",
+      "mdPath": "articles/004.md",
+      "title": "購買管理とは何か？",
+      "category": "business",
+      "tags": ["業務プロセス", "販売", "購買"],
+      "postDate": "2025-03-25",
+      "createUser": "ERP部 髙橋唯人"
+    },
+    {
+      "articleId": "005",
+      "mdPath": "articles/005.md",
+      "title": "ERPとは何か？",
+      "category": "other",
+      "tags": ["ERP"],
+      "postDate": "2025-03-25",
+      "createUser": "ERP部 髙橋唯人"
+    },
+    {
+      "articleId": "006",
+      "mdPath": "articles/006.md",
+      "title": "◯◯◯◯について",
+      "category": "business",
+      "tags": ["会計"],
+      "postDate": "2025-03-25",
+      "createUser": "ERP部 髙橋唯人"
+    },
+    {
+      "articleId": "007",
+      "mdPath": "articles/007.md",
+      "title": "◯◯◯◯について",
+      "category": "business",
+      "tags": ["業務プロセス", "会計", "請求"],
+      "postDate": "2025-03-25",
+      "createUser": "ERP部 髙橋唯人"
+    },
+    {
+      "articleId": "008",
+      "mdPath": "articles/008.md",
+      "title": "◯◯◯◯について",
+      "category": "business",
+      "tags": ["ERP"],
+      "postDate": "2025-03-25",
+      "createUser": "ERP部 髙橋唯人"
+    },
+    {
+      "articleId": "009",
+      "mdPath": "articles/009.md",
+      "title": "AMOってなに？",
+      "category": "amo",
+      "tags": ["AMO"],
+      "postDate": "2025-03-25",
+      "createUser": "ERP部 髙橋唯人"
+    },
+    {
+      "articleId": "010",
+      "mdPath": "articles/010.md",
+      "title": "SAP Analytics Cloudについて",
+      "category": "analytics",
+      "tags": ["SAC", "データ分析"],
       "postDate": "2025-03-25",
       "createUser": "ERP部 髙橋唯人"
     }
