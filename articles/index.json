@@ -24,7 +24,7 @@
       "title": "BASISとは何か？",
       "category": "basis",
       "tags": ["BASIS"],
-      "postDate": "2025-03-25",
+      "postDate": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     },
     {
@@ -33,7 +33,7 @@
       "title": "購買管理とは何か？",
       "category": "business",
       "tags": ["業務プロセス", "販売", "購買"],
-      "postDate": "2025-03-25",
+      "postDate": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     },
     {
@@ -42,7 +42,7 @@
       "title": "ERPとは何か？",
       "category": "other",
       "tags": ["ERP"],
-      "postDate": "2025-03-25",
+      "postDate": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     },
     {
@@ -51,7 +51,7 @@
       "title": "◯◯◯◯について",
       "category": "business",
       "tags": ["会計"],
-      "postDate": "2025-03-25",
+      "postDate": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     },
     {
@@ -60,7 +60,7 @@
       "title": "◯◯◯◯について",
       "category": "business",
       "tags": ["業務プロセス", "会計", "請求"],
-      "postDate": "2025-03-25",
+      "postDate": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     },
     {
@@ -69,7 +69,7 @@
       "title": "◯◯◯◯について",
       "category": "business",
       "tags": ["ERP"],
-      "postDate": "2025-03-25",
+      "postDate": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     },
     {
@@ -78,7 +78,7 @@
       "title": "AMOってなに？",
       "category": "amo",
       "tags": ["AMO"],
-      "postDate": "2025-03-25",
+      "postDate": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     },
     {
@@ -87,7 +87,7 @@
       "title": "SAP Analytics Cloudについて",
       "category": "analytics",
       "tags": ["SAC", "データ分析"],
-      "postDate": "2025-03-25",
+      "postDate": "2025/03/01",
       "createUser": "ERP部 髙橋唯人"
     }
   ]
