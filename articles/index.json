@@ -3,117 +3,117 @@
     {
       "articleId": "001",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/001.md",
-      "title": "S/4HANAとは何か？",
+      "title": "S/4HANAã¨ã¯ä½ãï¼",
       "category": "s4hana",
       "tags": [
         "S/4HANA"
       ],
       "date": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "002",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/002.md",
-      "title": "BTPとは何か？",
+      "title": "BTPã¨ã¯ä½ãï¼",
       "category": "btp",
       "tags": [
         "BTP"
       ],
       "date": "2025/03/02",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "003",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/003.md",
-      "title": "BASISとは何か？",
+      "title": "BASISã¨ã¯ä½ãï¼",
       "category": "basis",
       "tags": [
         "BASIS"
       ],
       "postDate": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "004",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/004.md",
-      "title": "購買管理とは何か？",
+      "title": "è³¼è²·ç®¡çã¨ã¯ä½ãï¼",
       "category": "business",
       "tags": [
-        "業務プロセス",
-        "販売",
-        "購買"
+        "æ¥­åãã­ã»ã¹",
+        "è²©å£²",
+        "è³¼è²·"
       ],
       "postDate": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "005",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/005.md",
-      "title": "ERPとは何か？",
+      "title": "ERPã¨ã¯ä½ãï¼",
       "category": "other",
       "tags": [
         "ERP"
       ],
       "postDate": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "006",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/006.md",
-      "title": "◯◯◯◯について",
+      "title": "â¯â¯â¯â¯ã«ã¤ãã¦",
       "category": "business",
       "tags": [
-        "会計"
+        "ä¼è¨"
       ],
       "postDate": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "007",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/007.md",
-      "title": "◯◯◯◯について",
+      "title": "â¯â¯â¯â¯ã«ã¤ãã¦",
       "category": "business",
       "tags": [
-        "業務プロセス",
-        "会計",
-        "請求"
+        "æ¥­åãã­ã»ã¹",
+        "ä¼è¨",
+        "è«æ±"
       ],
       "postDate": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "008",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/008.md",
-      "title": "◯◯◯◯について",
+      "title": "â¯â¯â¯â¯ã«ã¤ãã¦",
       "category": "business",
       "tags": [
         "ERP"
       ],
       "postDate": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "009",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/009.md",
-      "title": "AMOってなに？",
+      "title": "AMOã£ã¦ãªã«ï¼",
       "category": "amo",
       "tags": [
         "AMO"
       ],
       "postDate": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "articleId": "010",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/010.md",
-      "title": "SAP Analytics Cloudについて",
+      "title": "SAP Analytics Cloudã«ã¤ãã¦",
       "category": "analytics",
       "tags": [
         "SAC",
-        "データ分析"
+        "ãã¼ã¿åæ"
       ],
       "postDate": "2025/03/01",
-      "createUser": "ERP部 髙橋唯人"
+      "createUser": "ERPé¨ é«æ©å¯äºº"
     },
     {
       "title": "fwq",
@@ -125,6 +125,17 @@
       "date": "2025/03/28",
       "articleId": "011",
       "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles//011.md"
+    },
+    {
+      "title": "3t3t3t3t",
+      "category": "s4hana",
+      "tags": [
+        "3t32t3t32"
+      ],
+      "createUser": "wegt3tt",
+      "date": "2025/03/29",
+      "articleId": "012",
+      "mdPath": "https://raw.githubusercontent.com/Tdc12345/knowledge-articles/refs/heads/main/articles/012.md"
     }
   ]
 }
